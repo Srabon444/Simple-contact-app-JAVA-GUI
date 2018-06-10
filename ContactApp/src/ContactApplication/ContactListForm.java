@@ -14,7 +14,7 @@ import java.io.IOException;
 public class ContactListForm extends JFrame implements ActionListener{
 
     JButton calbtn = new JButton("Add to Contacts");
-    JButton calbtn1 = new JButton("Show Contacts");
+    JButton calbtn1 = new JButton("Show Contacts.");
 
     private FileWriter fw;
     private BufferedWriter bw;
